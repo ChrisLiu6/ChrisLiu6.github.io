@@ -102,17 +102,17 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 
 [A Simple Romance Between Multi-Exit Vision Transformer and Token Reduction](https://openreview.net/forum?id=gJeYtRuguR)
 
-**<span style="color:blue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
+**<span style="color:SkyBlue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fcfd' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/paper/fcfd.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Function-Consistent Feature Distillation](https://arxiv.org/abs/2304.11832)
 
-**<span style="color:blue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
+**<span style="color:SkyBlue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
 
 </div>
 </div>
