@@ -26,8 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
-
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/lumina-video.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,65 +47,73 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/paper/lumina-next.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT](#)
+[Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT](https://arxiv.org/abs/2406.18583)
 
 Le Zhuo\*, Ruoyi Du\*, Han Xiao\*, Yangguang Li\*, **<span style="color:SkyBlue">Dongyang Li\*</span>**, Rongjie Huang\*, Wenze Liu\*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper/lumina-t2x.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](#)
+[Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](https://arxiv.org/abs/2405.05945)
 
 Peng Gao\*, Le Zhuo\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Ruoyi Du\*, Xu Luo\*, Longtian Qiu\*, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/paper/sphinx-x.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](#)
+[SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](https://arxiv.org/abs/2402.05935)
 
 **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Renrui Zhang\*, Longtian Qiu\*, Siyuan Huang\*, Weifeng Lin\*, Shitian Zhao, Shijie Geng, Ziyi Lin, Peng Jin, Kaipeng Zhang, Wenqi Shao, Chao Xu, Conghui He, Junjun He, Hao Shao, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/paper/sphinx.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models](#)
+[SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models](https://arxiv.org/pdf/2311.07575)
 
-Ziyi Lin\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Renrui Zhang\*, Peng Gao\*, Longtian Qiu\*, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao
+Ziyi Lin\*, **<span style="color:SkyBlue">Chris Liu\*</span>**, Renrui Zhang\*, Peng Gao\*, Longtian Qiu\*, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper/llama-adapter.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](#)
+[LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199)
 
-Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
+Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>**, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/paper/metr.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A Simple Romance Between Multi-Exit Vision Transformer and Token Reduction](https://openreview.net/forum?id=gJeYtRuguR)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**<span style="color:blue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fcfd' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Function-Consistent Feature Distillation](https://arxiv.org/abs/2304.11832)
+
+**<span style="color:blue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
+
 </div>
 </div>
 
