@@ -127,10 +127,6 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2024.09 - now*: MMLab, The Chinese University of Hongkong (Ph.D.)
 - *2021.09 - 2024.06*: VIPL Lab, Institute of Computing Technology, Chinese Academy of Sciences (Master)
