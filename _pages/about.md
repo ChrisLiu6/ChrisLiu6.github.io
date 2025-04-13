@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Lumina-mGPT: Illuminate flexible photorealistic text-to-image generation with multimodal generative pretraining](https://arxiv.org/abs/2408.02657)
 
-**<span style="color:SkyBlue">Dongyang Liu*</span>**, Shitian Zhao*, Le Zhuo*, Weifeng Lin*, Yu Qiao, Hongsheng Li, Peng Gao
+**<span style="color:SkyBlue">Dongyang Liu\*</span>**, Shitian Zhao\*, Le Zhuo\*, Weifeng Lin\*, Yu Qiao, Hongsheng Li, Peng Gao
 
 </div>
 </div>
@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT](#)
 
-Le Zhuo*, Ruoyi Du*, Han Xiao*, Yangguang Li*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Rongjie Huang*, Wenze Liu*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
+Le Zhuo\*, Ruoyi Du\*, Han Xiao\*, Yangguang Li\*, **<span style="color:SkyBlue">Dongyang Li\*</span>**, Rongjie Huang\*, Wenze Liu\*, Lirui Zhao, Fu-Yun Wang, Zhanyu Ma, Xu Luo, Zehan Wang, Kaipeng Zhang, Xiangyang Zhu, Si Liu, Xiangyu Yue, Dingning Liu, Wanli Ouyang, Ziwei Liu, Yu Qiao, Hongsheng Li, Peng Gao
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Le Zhuo*, Ruoyi Du*, Han Xiao*, Yangguang Li*, **<span style="color:SkyBlue">Don
 
 [Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers](#)
 
-Peng Gao*, Le Zhuo*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Ruoyi Du*, Xu Luo*, Longtian Qiu*, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
+Peng Gao\*, Le Zhuo\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Ruoyi Du\*, Xu Luo\*, Longtian Qiu\*, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
 
 </div>
 </div>
@@ -73,7 +73,7 @@ Peng Gao*, Le Zhuo*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Ruoyi
 
 [SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](#)
 
-**<span style="color:SkyBlue">Dongyang Liu*</span>**, Renrui Zhang*, Longtian Qiu*, Siyuan Huang*, Weifeng Lin*, Shitian Zhao, Shijie Geng, Ziyi Lin, Peng Jin, Kaipeng Zhang, Wenqi Shao, Chao Xu, Conghui He, Junjun He, Hao Shao, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
+**<span style="color:SkyBlue">Dongyang Liu\*</span>**, Renrui Zhang\*, Longtian Qiu\*, Siyuan Huang\*, Weifeng Lin\*, Shitian Zhao, Shijie Geng, Ziyi Lin, Peng Jin, Kaipeng Zhang, Wenqi Shao, Chao Xu, Conghui He, Junjun He, Hao Shao, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Peng Gao*, Le Zhuo*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Ruoyi
 
 [SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models](#)
 
-Ziyi Lin*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Renrui Zhang*, Peng Gao*, Longtian Qiu*, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao
+Ziyi Lin\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Renrui Zhang\*, Peng Gao\*, Longtian Qiu\*, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao
 
 </div>
 </div>
@@ -93,7 +93,7 @@ Ziyi Lin*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Renrui Zhang*, 
 
 [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](#)
 
-Renrui Zhang*, Jiaming Han*, **<span style="color:SkyBlue">Dongyang Liu*</span>**, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
+Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Dongyang Liu\*</span>**, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao, Peng Gao
 
 </div>
 </div>
