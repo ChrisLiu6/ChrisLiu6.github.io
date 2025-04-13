@@ -92,10 +92,14 @@
 
 .paper-box-bottom {
     @extend .paper-box;
-    padding: 1em 0 1em 0;
     border-bottom: none;
 }
 
+.paper-box-top-bottom {
+    @extend .paper-box;
+    padding: 0 0 1em 0;
+    border-bottom: none;
+}
 
 $scroll_offset : 2em;
 h1:before, .anchor:before {

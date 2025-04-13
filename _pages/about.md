@@ -119,7 +119,7 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 
 # ⚙️ Projects
 
-<div class='paper-box-top'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
