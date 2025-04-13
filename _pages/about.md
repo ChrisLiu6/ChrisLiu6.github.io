@@ -117,7 +117,15 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# ⚙️ Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
