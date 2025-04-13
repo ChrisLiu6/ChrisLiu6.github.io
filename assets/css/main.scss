@@ -46,7 +46,7 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    //border-bottom: 1px #efefef solid;
+    border-bottom: 1px #efefef solid;
     padding: 1em 0 1em 0;
 
 
@@ -89,6 +89,13 @@
     @extend .paper-box;
     padding: 0 0 1em 0;
 }
+
+.paper-box-bottom {
+    @extend .paper-box;
+    padding: 1em 0 1em 0;
+    border-bottom: none;
+}
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before {
