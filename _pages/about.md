@@ -15,13 +15,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
+# 🫠 About Me
+<span class='anchor' id='about-me'></span>
 I am currently a first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK, supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I obtained my master's degree from the [VIPL](https://vipl.ict.ac.cn/), where I was supervised by Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/sgshan/) and Prof. [Meina Kan](https://vipl.ict.ac.cn/people/mnkan/).
 
 My current research focus is multimodal understanding and generation.
 
 # 📝 Publications
+<span class='anchor' id='publications'></span>
 <div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/lumina-video.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,7 +115,7 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 </div>
 
 # ⚙️ Projects
-
+<span class='anchor' id='projects'></span>
 <div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -123,6 +125,7 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 </div>
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2024.09 - now*: MMLab, The Chinese University of Hongkong (Ph.D.)
 - *2021.09 - 2024.06*: VIPL Lab, Institute of Computing Technology, Chinese Academy of Sciences (Master)
 - *2017.09 - 2021.06*: School of Software Engineering, Tongji University. (Bachelor)
