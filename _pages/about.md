@@ -22,8 +22,38 @@ I am currently a first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.h
 
 My current research focus is multimodal understanding and generation.
 
+# ⚙️ Projects
+<span class='anchor' id='projects'></span>
+
+<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/Z-Image.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Z-Image](https://github.com/Tongyi-MAI/Z-Image)
+
+</div>
+</div>
+
+<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
+</div>
+</div>
+
 # 📝 Publications
 <span class='anchor' id='publications'></span>
+
+<div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/decoupled-dmd.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://arxiv.org/abs/2511.22677)
+
+**<span style="color:SkyBlue">Dongyang Liu</span>**, Peng Gao, David Liu, Ruoyi Du, Zhen Li, Qilong Wu, Xin Jin, Sihan Cao, Shifeng Zhang, Hongsheng Li, Steven Hoi
+
+</div>
+</div>
+
 <div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/lumina-video.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,16 +140,6 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 [Function-Consistent Feature Distillation](https://arxiv.org/abs/2304.11832)
 
 **<span style="color:SkyBlue">Dongyang Liu</span>**, Meina Kan, Shiguang Shan, CHEN Xilin
-
-</div>
-</div>
-
-# ⚙️ Projects
-<span class='anchor' id='projects'></span>
-<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 
 </div>
 </div>
