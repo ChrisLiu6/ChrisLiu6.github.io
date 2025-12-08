@@ -25,7 +25,7 @@ My current research focus is multimodal understanding and generation.
 # ⚙️ Projects
 <span class='anchor' id='projects'></span>
 
-<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/Z-Image.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-top'><div class='paper-box-image'><div><img src='images/projects/Z-Image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Z-Image](https://github.com/Tongyi-MAI/Z-Image)
@@ -33,7 +33,7 @@ My current research focus is multimodal understanding and generation.
 </div>
 </div>
 
-<div class='paper-box-top-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-bottom'><div class='paper-box-image'><div><img src='images/projects/accessory.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
@@ -54,7 +54,7 @@ My current research focus is multimodal understanding and generation.
 </div>
 </div>
 
-<div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/lumina-video.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/lumina-video.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT](https://arxiv.org/abs/2502.06782)
