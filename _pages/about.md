@@ -18,7 +18,7 @@ redirect_from:
 
 # 🫠 About Me
 <span class='anchor' id='about-me'></span>
-I am currently a first-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK, supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I obtained my master's degree from [VIPL](https://vipl.ict.ac.cn/), where I was supervised by Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/sgshan/) and Prof. [Meina Kan](https://vipl.ict.ac.cn/people/mnkan/).
+I am currently a second-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK, supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I obtained my master's degree from [VIPL](https://vipl.ict.ac.cn/), where I was supervised by Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/sgshan/) and Prof. [Meina Kan](https://vipl.ict.ac.cn/people/mnkan/).
 
 My current research focus is multimodal understanding and generation.
 
