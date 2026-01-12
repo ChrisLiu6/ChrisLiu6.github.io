@@ -33,7 +33,7 @@ My current research focus is multimodal understanding and generation
 [Z-Image](https://github.com/Tongyi-MAI/Z-Image)
 [![](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image)](https://github.com/Tongyi-MAI/Z-Image)
 
-Z-Image is a powerful and highly efficient image generation model with 6B parameters.
+Powerful and highly efficient image generation model with 6B parameters.
 
 </div>
 </div>
@@ -44,7 +44,7 @@ Z-Image is a powerful and highly efficient image generation model with 6B parame
 [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 [![](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory)](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 
-An Open-source Toolkit for LLM Development 🚀
+Your One-Stop Open-source Toolkit for LLM Development 🚀
 
 </div>
 </div>
