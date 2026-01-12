@@ -9,26 +9,31 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
 # 🫠 About Me
+
 <span class='anchor' id='about-me'></span>
 I am currently a second-year Ph.D. student at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK, supervised by Prof. [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/). Before that, I obtained my master's degree from [VIPL](https://vipl.ict.ac.cn/), where I was supervised by Prof. [Shiguang Shan](https://vipl.ict.ac.cn/people/sgshan/) and Prof. [Meina Kan](https://vipl.ict.ac.cn/people/mnkan/).
 
-My current research focus is multimodal understanding and generation.
+My current research focus is multimodal understanding and generation
+<a href='https://scholar.google.com/citations?user=VxQGEOcAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FChrisLiu6%2FChrisLiu6.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # ⚙️ Projects
+
 <span class='anchor' id='projects'></span>
 
 <div class='paper-box-top'><div class='paper-box-image'><div><img src='images/projects/Z-Image.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Z-Image](https://github.com/Tongyi-MAI/Z-Image)
+[![](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image)](https://github.com/Tongyi-MAI/Z-Image)
+
+Z-Image is a powerful and highly efficient image generation model with 6B parameters.
 
 </div>
 </div>
@@ -37,11 +42,15 @@ My current research focus is multimodal understanding and generation.
 <div class='paper-box-text' markdown="1">
 
 [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+[![](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory)](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
+An Open-source Toolkit for LLM Development 🚀
 
 </div>
 </div>
 
 # 📝 Publications
+
 <span class='anchor' id='publications'></span>
 
 <div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/decoupled-dmd.webp' alt="sym" width="100%"></div></div>
@@ -145,7 +154,9 @@ Renrui Zhang\*, Jiaming Han\*, **<span style="color:SkyBlue">Chris Liu\*</span>*
 </div>
 
 # 📖 Educations
+
 <span class='anchor' id='educations'></span>
+
 - *2024.09 - now*: MMLab, The Chinese University of Hongkong (Ph.D.)
 - *2021.09 - 2024.06*: VIPL Lab, Institute of Computing Technology, Chinese Academy of Sciences (Master)
 - *2017.09 - 2021.06*: School of Software Engineering, Tongji University. (Bachelor)
