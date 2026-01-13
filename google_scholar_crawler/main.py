@@ -24,7 +24,7 @@ def main():
     logger.info(f"Starting Google Scholar crawler for ID: {scholar_id}")
 
     # 尝试设置免费代理（可选，如果直接请求被封）
-    max_retries = 3
+    max_retries = 5
     retry_delay = 30  # 秒
 
     for attempt in range(1, max_retries + 1):
