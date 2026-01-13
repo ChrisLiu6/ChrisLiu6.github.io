@@ -16,7 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def main():
-    scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID')
+    scholar_id = "VxQGEOcAAAAJ"
     if not scholar_id:
         logger.error("GOOGLE_SCHOLAR_ID environment variable is not set!")
         sys.exit(1)
