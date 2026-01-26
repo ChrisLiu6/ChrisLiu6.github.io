@@ -53,7 +53,7 @@ Your One-Stop Open-source Toolkit for LLM Development 🚀
 
 <span class='anchor' id='publications'></span>
 
-<div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/paper/decoupled-dmd.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-top'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/paper/decoupled-dmd.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://arxiv.org/abs/2511.22677)
